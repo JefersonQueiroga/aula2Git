@@ -14,4 +14,8 @@ public class QuintaFeira {
 	public static void metodoRobson(){
 		System.out.println("cheguei nessa bagaça!!");
 	}
+	
+	public static void inter(){
+		System.out.println("Inter Bi Campeao da Libertadores");
+	}
 }
