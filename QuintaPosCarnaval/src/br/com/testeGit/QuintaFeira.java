@@ -20,6 +20,7 @@ public class QuintaFeira {
 	}
 	
 	public static void metodoMoises(){
+		
 		System.out.println("Ainda tô na bagaça");
 	}
 }
