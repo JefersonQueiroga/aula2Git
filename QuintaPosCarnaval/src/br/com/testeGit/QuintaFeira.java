@@ -10,4 +10,8 @@ public class QuintaFeira {
 		System.out.println("Testando");
 			
 	}
+	
+	public static void metodoRobson(){
+		System.out.println("cheguei nessa bagaça!!");
+	}
 }
