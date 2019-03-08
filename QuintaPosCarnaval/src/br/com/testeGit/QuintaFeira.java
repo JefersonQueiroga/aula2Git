@@ -15,6 +15,11 @@ public class QuintaFeira {
 		System.out.println("cheguei nessa bagaça!!");
 	}
 	
+
+	public static void metodoMauricio(){
+		System.out.println("cheguei também nessa bagaça!!");
+	}
+	
 	public static void inter(){
 		System.out.println("Inter Bi Campeao da Libertadores");
 	}
