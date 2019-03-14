@@ -1,5 +1,7 @@
 package br.com.testeGit;
 
+import br.com.aluno.Aluno;
+
 /**Comentarioas
  * 
  * @author jeferson
@@ -7,7 +9,11 @@ package br.com.testeGit;
  */
 public class QuintaFeira {
 	public static void main(String[] args) {
-		System.out.println("Testando");
+		System.out.println("Testando...");
+		
+		Aluno aluno = new Aluno("Astrogildo", "TADS");
+		System.out.print("\nNome: " + aluno.getNome());
+		System.out.print("\nCurso: " + aluno.getCurso());
 			
 	}
 	
